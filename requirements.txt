@@ -5,3 +5,6 @@ scikit-learn
 jupyter
 graphviz
 scipy
+pydotplus
+IPython
+six
